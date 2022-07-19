@@ -5,11 +5,11 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.github.dreamvoid</groupId>
-    <artifactId>DreamvoidBukkitTemplate</artifactId>
+    <artifactId>NoSpecTeleport</artifactId>
     <version>1.0</version>
 
-    <name>DreamvoidBukkitTemplate</name>
-    <description>DreamVoid personal Bukkit template</description>
+    <name>NoSpecTeleport</name>
+    <description>Prevent player teleport in spectator mode.</description>
     <url>https://github.com/DreamVoid/${project.artifactId}</url>
 
     <build>
